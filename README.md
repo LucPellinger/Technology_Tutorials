@@ -25,5 +25,8 @@ It serves as a personal documentation hub for my journey in **Data Science** and
 ### 📘 Summary
 
 1. Git Workflow and Onboarding  
-2. Project Setup with Bash Scripts  
-3. Google Cloud Compute Engine Setup  
+2. Terminal Naviation and File Management
+3. Conda Environment Management
+4. Project Setup with Bash Scripts
+5. Introduction to Time Series Analysis
+6. Google Cloud Compute Engine Setup
