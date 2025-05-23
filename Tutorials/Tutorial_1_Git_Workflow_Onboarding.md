@@ -103,11 +103,11 @@ You have to options to clone a repository:
 
 ##### 1. via https (not recommended unless ssh makes problems as https requires you to insert your credentials and a user token to clone the repository sometimes.
 
-![Alt text](images\https.png)
+![Alt text](images/https.png)
 
 ##### 2. via ssh
 
-![Alt text](images\https.png)
+![Alt text](images/https.png)
 
 
 ```python
